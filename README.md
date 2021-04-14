@@ -36,6 +36,7 @@ for development and career growth
   - Docker
   - Jenkins
   - Bash
+  - Github Action
   - AWS
  
 - Adobe
