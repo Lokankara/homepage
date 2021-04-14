@@ -1,5 +1,5 @@
 Status of Last Deployment:<br>
-<img src="https://github.com/ppolyak/devops_crash/workflows/Pavlo_polyak_25021982/badge.svg?branch=pavlo_polyak_25021982"><br>
+<img src="https://github.com/ppolyak/devops_crash/workflows/pavlo_polyak_25021982/badge.svg?branch=pavlo_polyak_25021982"><br>
 
 
 # Resume
