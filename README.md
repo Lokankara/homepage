@@ -52,6 +52,8 @@ for development and career growth
 - LINUX
 - WINDOWS
   - MICROSOFT OFFICE
+- [CV](https://polyakpavlo.github.io/homepage/)
+
 
 ### Character
 
