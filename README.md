@@ -86,6 +86,5 @@ virtue, rigor. Faithful and honest friend
 - 2018-until newpaper "MB"
 
 ### Contacts
-- 099 091 36 77
-- https://t.me/PashaPolyak
+- fghjkl11@gmail.com
 - poliakpavlo@gmail.com
