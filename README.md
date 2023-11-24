@@ -1,8 +1,6 @@
-Status of Last Deployment:<br>
-<img src="https://github.com/polyakpavlo/devops_crash/workflows/pavlo_polyak_25021982/badge.svg?branch=pavlo_polyak_25021982"><br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fb30880d-6305-4294-a538-6c74a3ac3830/deploy-status)](https://app.netlify.com/sites/site-portfolio-print-house/deploys)
 
-
-# Resume
+[Resume](https://site-portfolio-print-house.netlify.app/)
 
 ### Pavlo Polyak
 Web-designer
@@ -15,7 +13,6 @@ The main thing is to have the opportunity
 for development and career growth
 ```
 
-
 ### Languages
 - 🇺🇦 УКРАЇНСЬКА
 - 🇷🇺 РУССКИЙ
@@ -23,7 +20,6 @@ for development and career growth
 
 ### Skills
 - [HTML-CSS-JS](https://raw.githack.com/PolyakPavlo/MERN/main/barmaglot/index.html)
-- [HTML-JQuery-Git-Json](https://raw.githack.com/PolyakPavlo/MERN/main/barmaglot/trans.html)
    
 - Python
   - [Webdriver](https://github.com/PolyakPavlo/DevOps/blob/dev/py/olx_spider.py)
@@ -44,9 +40,9 @@ for development and career growth
   - Photoshop
   - Illustrator
 
-- NODE.js (Mongodb,Express,React,Node)
-
 - JAVA
+  - Core
+  -Spring
 
 - GIT
 - LINUX
@@ -81,11 +77,12 @@ virtue, rigor. Faithful and honest friend
     Every free times
 
 ### Experience
-- 2002-2008 newpaper "MB"
+- 2002-2008 newpaper "Molbuk"
 - 2008-2018 newpaper "Pogliad"
-- 2018-until newpaper "MB"
+- 2018-2022 newpaper "Molbuk"
+- 2022-2023 "Luxoft"
 
 ### Contacts
-- 099 091 36 77
-- https://t.me/PashaPolyak
-- poliakpavlo@gmail.com
+
+- https://t.me/PashaPollack
+- fghjkl11@gmail.com
