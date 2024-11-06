@@ -1,0 +1,27 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [],
+    "pages": 274,
+    "ocr_stats": {
+        "ocr_pages": 31,
+        "ocr_failed": 0,
+        "ocr_success": 31,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 1732,
+        "code": 0,
+        "table": 132,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
